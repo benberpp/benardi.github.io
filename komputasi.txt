@@ -1,0 +1,13 @@
+Tugas Akhir Komputasi Awan
+
+Awan” adalah kependekan dari “komputasi awan”, 
+dan mengacu pada tugas dan layanan yang disediakan atau
+dihosting melalui layanan internet dengan sistem bayar 
+sesuai pemakaian. Orang-orang telah dapat menyimpan, mengoperasikan, dan mengelola 
+data melalui internet sejak lama, tetapi komputasi awan melakukan ini dalam 
+skala yang jauh lebih besar.
+
+Pertama, penting untuk mengklarifikasi bahwa awan masih membutuhkan 
+komponen fisik. Meskipun Anda mungkin tidak menyimpan file langsung ke komputer Anda, 
+file tersebut masih perlu dilampirkan ke beberapa perangkat keras di suatu tempat di 
+dunia. 
